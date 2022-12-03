@@ -1,0 +1,12 @@
+C:\Users\MTC\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\MusicPlaylist.csproj.AssemblyReference.cache
+C:\Users\MTC\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\MTC\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\MusicPlaylist.csproj.ResolveComReference.cache
+C:\Users\MTC\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\MusicPlaylist.Form1.resources
+C:\Users\MTC\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\MusicPlaylist.Properties.Resources.resources
+C:\Users\MTC\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\MusicPlaylist.csproj.GenerateResource.cache
+C:\Users\MTC\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\MusicPlaylist.csproj.CoreCompileInputs.cache
+C:\Users\MTC\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MusicPlaylist.exe.config
+C:\Users\MTC\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MusicPlaylist.exe
+C:\Users\MTC\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MusicPlaylist.pdb
+C:\Users\MTC\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\MusicPlaylist.exe
+C:\Users\MTC\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\MusicPlaylist.pdb
